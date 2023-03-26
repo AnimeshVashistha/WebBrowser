@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="web_browser" type="id">web_browser</item>
+    <item name="playground_code" type="id">playground_code</item>
+    <item name="run_code" type="id">run_code</item>
+</resources>
